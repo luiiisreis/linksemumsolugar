@@ -1,2 +1,2 @@
-# linksemumsolugar
-"Centralizador de links oficial para acesso rápido às minhas plataformas."
+# indicação
+Cinegato é uma plataforma de streaming gratuita com mais de 100.000 filmes e séries. Reúne vídeos de todas as grandes plataformas locais como ​Netflix, ​Prime Video, ​Globoplay, ​Disney+ e outras. O foco aqui está em ser ​totalmente gratuita, sem custos nenhum!
